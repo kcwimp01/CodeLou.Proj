@@ -1,0 +1,40 @@
+#banner {
+  color: white;
+  background-color: #003087;
+  text-transform: full-width;
+  height: 65px;
+  margin-bottom: auto;
+}
+
+.button-group {
+  color: #003087;
+  background-color: #003087;
+  align-items: center;
+
+}
+
+#footer-nav #social-media {
+  border-bottom: #003087;
+}
+
+#news  li {
+  text-align: justify;
+  color: #E4002B;
+  list-style: none;
+  margin: 0;
+  padding-top: 60px;
+}
+
+.btn {
+  background-color:	#E4002B;
+  color: white;
+}
+
+p {
+  color: #E4002B;
+}
+
+#follow {
+  display: inline-block;
+  align-items: auto;
+}
